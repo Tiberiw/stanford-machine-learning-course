@@ -1,5 +1,6 @@
 # Stanford-Machine-Learning-Course
 
+### Homework from: https://www.coursera.org/specializations/machine-learning-introduction
 - Implemented in Python the following algorithms:
   - Linear Regression
   - Logistic Regression
