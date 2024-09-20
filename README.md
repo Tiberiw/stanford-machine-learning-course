@@ -1,14 +1,15 @@
 # Stanford-Machine-Learning-Course
 
 - Implemented in Python the following algorithms:
-  i. Linear Regression
-  ii. Logistic Regression
-  iii. Neural Networks (binary)
-  iv. Neural Networks (multiclass)
-  v. Machine Learning System Design
-  vi. Decision Trees
-  vii. K Means Clustering
-  viii. Anomaly Detection
-  ix. Collaborative Filtering Recommender System
-  x. Deep Learning Content Recommender System
-  xi. Deep Q-Learning
+  - Linear Regression
+  - Logistic Regression
+  - Neural Networks (binary)
+  - Neural Networks (multiclass)
+  - Machine Learning System Design
+  - Decision Trees
+  - K Means Clustering
+  - Anomaly Detection
+  - Collaborative Filtering Recommender System
+  - Deep Learning Content Recommender System
+  - Deep Q-Learning  
+
